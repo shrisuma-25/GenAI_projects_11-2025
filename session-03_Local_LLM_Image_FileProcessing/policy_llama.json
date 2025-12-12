@@ -1,0 +1,8 @@
+{
+    "policyHolder": "John Doe",
+    "policyNumber": "POL-123456",
+    "startDate": "2025-01-01",
+    "endDate": "2025-12-31",
+    "premiumAmount": 1200,
+    "coverageSummary": "This insurance policy provides coverage for property damage, theft, and liability. The insured property includes the primary residence and attached structures."
+}
